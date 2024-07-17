@@ -1,6 +1,6 @@
-# React + Vite
+# React QUIZ APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/96473826-0a10-49a4-84a0-ddb7fc829af1)
 
 Currently, two official plugins are available:
 
