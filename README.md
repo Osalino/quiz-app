@@ -1,10 +1,9 @@
-# React QUIZ APP
-
-![image](https://github.com/user-attachments/assets/96473826-0a10-49a4-84a0-ddb7fc829af1)
-
 # React Quiz App
 
 The project is a simple quiz application built using React, where users can test their knowledge on a particular subject or topic. It displays a series of questions with multiple-choice options, provides feedback on correct or incorrect answers, and keeps track of the user's score. The application allows users to move on to the next question and displays the final score at the end. It also features a reset button to start the quiz over.
+
+
+![image](https://github.com/user-attachments/assets/96473826-0a10-49a4-84a0-ddb7fc829af1)
 
 
 ## Features in this project
@@ -121,7 +120,9 @@ export default Quiz
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![image](https://github.com/user-attachments/assets/96473826-0a10-49a4-84a0-ddb7fc829af1)
+
 
 
 ## 🔗 Links
