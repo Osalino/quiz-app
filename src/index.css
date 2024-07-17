@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+body {
+    height: 100vh;
+    background-image: linear-gradient(#D8C7FF, blue );
+    background: url(assets/Soothing-nature-backgrounds-2.jpg.webp);
+    font-family: 'Poppins';
+}
